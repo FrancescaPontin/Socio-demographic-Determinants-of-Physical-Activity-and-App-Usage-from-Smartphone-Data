@@ -8,3 +8,6 @@ The increasing ubiquity of smartphones provides a potential new data source to c
 
 Francesca Pontin, Nik Lomax, Graham Clarke, Michelle A. Morris, <b>Socio-demographic determinants of physical activity and app usage from smartphone data,
 <I>Social Science & Medicine,</I></b> Volume 284, 2021
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5141023.svg)](https://doi.org/10.5281/zenodo.5141023)
